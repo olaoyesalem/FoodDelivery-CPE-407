@@ -9,5 +9,4 @@ ReactNativeFeatureFlags.shouldPressibilityUseW3CPointerEventsForHover = () =>
   true;
 
 
-
 import "expo-router/entry";
